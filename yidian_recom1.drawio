@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-10T11:20:53.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="8y3HSObH17ak0hqa_kBW" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-10T11:21:32.562Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="V-OSKW9ytIIuOMjZZU_G" version="13.10.0" type="github">
   <diagram id="6I0OCvxSQrVGMHxT2VVA" name="Page-1">
     <mxGraphModel dx="946" dy="524" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -184,11 +184,11 @@
         <mxCell id="Yvi_lJ4tg9lirpw7Dg8K-81" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=8;" edge="1" parent="1" source="Yvi_lJ4tg9lirpw7Dg8K-71" target="Yvi_lJ4tg9lirpw7Dg8K-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Yvi_lJ4tg9lirpw7Dg8K-84" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontSize=8;" vertex="1" parent="1">
+        <mxCell id="Yvi_lJ4tg9lirpw7Dg8K-84" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rounded=1;fontSize=8;fillColor=#6d8764;strokeColor=#3A5431;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="710" y="190" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Yvi_lJ4tg9lirpw7Dg8K-85" value="&lt;font style=&quot;font-size: 10px&quot;&gt;DB&lt;br style=&quot;font-size: 10px&quot;&gt;(广州)&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="720" y="188" width="40" height="25" as="geometry" />
+          <mxGeometry x="720" y="188" width="40" height="22" as="geometry" />
         </mxCell>
         <mxCell id="Yvi_lJ4tg9lirpw7Dg8K-89" value="召回服务启动时将文章等数据加载到内存" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="650" y="230" width="50" height="20" as="geometry" />
