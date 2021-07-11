@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-11T03:03:20.229Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Kf3PwcAxzu5djxQ6XMbu" version="14.8.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-11T03:32:35.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="-kkjoXyBYydMdT30K0-U" version="14.8.4" type="github">
   <diagram id="aAxCCbDvJp1J9khhxcws" name="Page-1">
-    <mxGraphModel dx="946" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="946" dy="521" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,6 +69,9 @@
         </mxCell>
         <mxCell id="xm7nu4Tk3IysUUltHsgT-27" value="逻辑处理层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="20" y="260" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="xm7nu4Tk3IysUUltHsgT-28" value="存储层" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="410" width="80" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
