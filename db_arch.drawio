@@ -1,9 +1,51 @@
-<mxfile host="app.diagrams.net" modified="2024-02-01T06:25:19.744Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="23.1.0" etag="zfdkUdDvGly0vFD3DBWa" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-01T06:49:29.247Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="aeTjFD7XsYjeFbdqvxp5" version="23.1.0" type="github">
   <diagram name="第 1 页" id="v5_ySFLBSg2iMs3sAVWW">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-2" value="" style="sketch=0;points=[[0,0,0],[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0,0],[0,1,0],[0.25,1,0],[0.5,1,0],[0.75,1,0],[1,1,0],[0,0.25,0],[0,0.5,0],[0,0.75,0],[1,0.25,0],[1,0.5,0],[1,0.75,0]];outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.database;" vertex="1" parent="1">
+          <mxGeometry x="571" y="279.71" width="80.29" height="80.29" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-3" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="581.14" y="367.42" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-4" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#d6b656;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#fff2cc;shape=mxgraph.mscae.enterprise.web_server" vertex="1" parent="1">
+          <mxGeometry x="339" y="270" width="74.04" height="97.42" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-5" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;shadow=0;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="300" width="110" height="26.75" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-7" value="增删改查" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="430" y="280" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-8" value="web服务器" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="329" y="367.42" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-10" value="" style="verticalLabelPosition=bottom;aspect=fixed;html=1;shape=mxgraph.salesforce.web;fillColor=#CCCCFF;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="278.71" width="101.27" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-12" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.4;arrowSize=0.4;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;shadow=0;dashed=0;" vertex="1" parent="1">
+          <mxGeometry x="228.99999999999997" y="300" width="110" height="26.75" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-13" value="给网站发送请求" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="219" y="278.71" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-14" value="终端设备" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="125" y="360" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-15" value="&lt;h1&gt;web服务器&lt;/h1&gt;&lt;p&gt;用各种编程语言实现的应用程序，接收并处理用户的请求&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-16" value="&lt;h1&gt;终端设备&lt;/h1&gt;&lt;div&gt;用户界面，用于展示网站数据和用户提交数据的界面&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="400" width="160" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-17" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="288.71" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hi3Cmm2OwKA7G7ahrogG-18" value="&lt;h1&gt;数据库&lt;/h1&gt;&lt;p&gt;用于存储用户提交的数据，并用于查询数据&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="531.14" y="410" width="160" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
